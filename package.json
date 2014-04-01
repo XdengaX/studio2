@@ -1,0 +1,26 @@
+{
+  "name": "lab2",
+  "version": "0.0.1",
+  "description": "this is lab project 2",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XdengaX/studio2.git"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "XdengaX",
+  "license": "VUW",
+  "bugs": {
+    "url": "https://github.com/XdengaX/studio2/issues"
+  },
+  "homepage": "https://github.com/XdengaX/studio2",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  }
+}
